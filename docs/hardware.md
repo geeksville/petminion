@@ -40,6 +40,11 @@ Projects:
 https://github.com/rytilahti/python-miio/issues/1047
 https://github.com/rytilahti/python-miio
 
+Steps to configure:
+* Install Mi Home app from the Google Play store
+* Create and sign into your Xiaomi account in the app
+* - crap - feeder I bought from aliexpress is fake can't work
+
 A competeting 'standard' is Tuya devices:
 https://github.com/rospogrigio/localtuya/issues/1082
 https://github.com/codetheweb/tuyapi?tab=readme-ov-file
